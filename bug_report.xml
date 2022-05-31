@@ -1,8 +1,7 @@
 <bug_report>
   <Bug ID>12345<ID/
   <Build Number>Version Number 5.0.1</Build Number>
-  
-  "Severity": "High",
+  <Severity>High</Severly>
   "Priority": "High",
   "Assigned to": { "Developer-X",
    "Reported By": "VIKA K",
