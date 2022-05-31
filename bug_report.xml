@@ -1,6 +1,6 @@
-"Bug Name": "Application crashes upon clicking the SAVE button while creating a new user", 
-  "Bug ID": 12345,
-  "Area Path": "USERS menu -> New Users",
+<bug_report>
+  <Bug ID>12345<ID/
+  "Area Path": "USERS menu -> New Users"
   "Build Number": "Version Number 5.0.1",
   "Severity": "High",
   "Priority": "High",
