@@ -1,7 +1,7 @@
 <bug_report>
   <Bug ID>12345<ID/
-  "Area Path": "USERS menu -> New Users"
-  "Build Number": "Version Number 5.0.1",
+  <Build Number>Version Number 5.0.1</Build Number>
+  
   "Severity": "High",
   "Priority": "High",
   "Assigned to": { "Developer-X",
