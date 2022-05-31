@@ -10,7 +10,7 @@
  
   
   </Steps_to_Reproduce>
-   "1": "Login into the Application",
+    <1>Login into the Application</1>
    "2": "Navigate to the Users Menu -> New User",
    "3": "Filled out all the user information fields",
    "4": "Clicked on the ‘Save’ button",
