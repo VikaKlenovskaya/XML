@@ -7,8 +7,7 @@
   <Reason>Defect</Reason>
   <Status>Open</Staus>
   <Environment</Windows 2010/SQL Server 2010"<Environment>
-  <Description</Application crashes upon clicking the SAVE button while creating a new the user, hence unable to create a new user 
-  in the application<Description>
+ 
   
    "Steps to Reproduce":{
    "1": "Login into the Application",
