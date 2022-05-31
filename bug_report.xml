@@ -1,11 +1,9 @@
 <bug_report>
   <Bug ID>12345<ID/
-  <Build Number>Version Number 5.0.1</Build Number>
   <Severity>High</Severly>
-  "Priority": "High",
-  "Assigned to": { "Developer-X",
-   "Reported By": "VIKA K",
-   "Reported On": "30.05.2022",
+  <Priority>High</Priority>
+  <Reported B>VIKA K</Reported>
+  <Reported On>30.05.2022</Reported>
    "Reason": "Defect",
    "Status": "Open",
    "Environment": "Windows 2010/SQL Server 2010",
