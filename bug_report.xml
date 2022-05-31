@@ -11,11 +11,11 @@
   
   </Steps_to_Reproduce>
     <1>Login into the Application</1>
-   "2": "Navigate to the Users Menu -> New User",
-   "3": "Filled out all the user information fields",
-   "4": "Clicked on the ‘Save’ button",
-   "5": "Seen an error page “ORA1090 Exception: Insert values Error…”",
-   "6": "See the attached logs for more information (Attach more logs related to the bug..IF any)",
-   "7": "Also see the attached screenshot of the error page",
+    <2>Navigate to the Users Menu -> New User</2>
+    <3>Filled out all the user information fields</3>
+    <4>Clicked on the ‘Save’ button</4>
+    <5>Seen an error page “ORA1090 Exception: Insert values Error…</5>
+    <6>See the attached logs for more information (Attach more logs related to the bug..IF any)</6>
+    <7>Also see the attached screenshot of the error page</7>
    "Expected Result": "On clicking the SAVE button, you should be prompted to a successful message “New User has been created successfully”",
    "(Attach ‘application crash’ screenshot. IF any)"},
